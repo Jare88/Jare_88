@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on Elämänkoulu
 
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning  Lua,Javascript,py
 
 - 👯 I’m looking to collaborate on  
 
