@@ -40,4 +40,3 @@
   <figure><embed src="https://wakatime.com/share/@Jare88/54884c01-4a70-4236-849e-b04b35857748.svg"></embed></figure>
   
   
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jare88/19070bd9-d3de-4741-b687-5004f8ff5257.png" /></a>
